@@ -8,11 +8,11 @@ export default function NavBar(){
             <Container>
                 <Menu.Item as={NavLink} to='/' exact header>
                     <img src="assets/logo.png" alt='' style={{marginRight: '10px'}}/>
-                    Reactivities
+                    Katsudo
                 </Menu.Item>
                 <Menu.Item as={NavLink} to='/activities' name='Activities'/>
                 <Menu.Item>
-                    <Button as={NavLink} to='/createActivity' positive content='Create Activity' />
+                    <Button as={NavLink} to='/createActivity' color='teal' content='Create Activity' />
                 </Menu.Item>
             </Container>
         </Menu>
