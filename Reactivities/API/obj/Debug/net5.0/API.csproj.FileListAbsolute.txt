@@ -64,3 +64,6 @@ C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\
 C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
