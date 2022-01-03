@@ -81,3 +81,6 @@ C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\
 C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\msckt\OneDrive\Bureau\Fil-Rouge-2021\Reactivities\API\bin\Debug\net5.0\Newtonsoft.Json.dll
