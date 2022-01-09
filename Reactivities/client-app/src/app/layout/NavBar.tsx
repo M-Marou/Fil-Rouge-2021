@@ -14,9 +14,12 @@ export default observer(function NavBar(){
                     Katsudo
                 </Menu.Item>
                 <Menu.Item as={NavLink} to='/activities' name='Activities'/>
-                <Menu.Item as={NavLink} to='/errors' name='Errors'/>
+                {/* <Menu.Item as={NavLink} to='/errors' name='Errors'/> */}
                 <Menu.Item>
-                    <Button as={NavLink} to='/createActivity' color='teal' content='Create Activity' />
+                    <Button as={NavLink} to='/createActivity' 
+                    inverted 
+                    content='Create Activity'
+                     />
                 </Menu.Item>
                 <Menu.Item position='right'>
                     <Image src={user?.image || '/assets/user.png'} avatar spaced='right' />

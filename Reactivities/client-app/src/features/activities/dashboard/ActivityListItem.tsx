@@ -15,7 +15,7 @@ export default function ActivityListItem({activity}: Props) {
         <Segment.Group>
             <Segment>
                 {activity.isCancelled && 
-                 <Label attached="top" color="red" content='Cancelled' style={{textAlign: 'center'}}/>
+                 <Label attached="top" color="purple" content='Cancelled' style={{textAlign: 'center'}}/>
                 }
                 <Item.Group>
                     <Item>
@@ -27,15 +27,15 @@ export default function ActivityListItem({activity}: Props) {
                             <Item.Description>Hosted By <Link to={`/profiles/${activity.hostUsername}`}>{activity.host?.displayName}</Link></Item.Description>
                             {activity.isHost && (
                                 <Item.Description>
-                                    <Label basic color='violet'>
-                                        You are hosting this activity
+                                    <Label basic color='black'>
+                                        HOSTING
                                     </Label>
                                 </Item.Description>
                             )}
                             {activity.isGoing && !activity.isHost && (
                                 <Item.Description>
-                                    <Label basic color='green'>
-                                        You are going to this activity
+                                    <Label basic color='blue'>
+                                        GOIN TO
                                     </Label>
                                 </Item.Description>
                             )}

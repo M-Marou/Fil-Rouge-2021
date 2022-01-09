@@ -29,7 +29,7 @@ export default observer(function ActivityDetailedSidebar ({ activty: {attendees,
                             {attendee.username === host?.username && 
                             <Label
                                 style={{ position: 'absolute' }}
-                                color='orange'
+                                color='purple'
                                 ribbon='right'
                             >
                                 Host

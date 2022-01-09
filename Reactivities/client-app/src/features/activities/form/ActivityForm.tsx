@@ -70,7 +70,7 @@ export default observer(function ActivityForm () {
                         <Header content='Location Details' sub color='violet' />
                         <MyTextInput placeholder='City' name='city' />
                         <MyTextInput placeholder='Venue' name='venue' />
-                        <Button disabled={isSubmitting || !dirty || !isValid} loading={isSubmitting} floated='right' positive type='submit' content='Submit' />
+                        <Button disabled={isSubmitting || !dirty || !isValid} loading={isSubmitting} floated='right' color='violet' type='submit' content='Submit' />
                         <Button as={Link} to='/activities' floated='right' type='button' content='Cancel' />
                     </Form>
                 )}
