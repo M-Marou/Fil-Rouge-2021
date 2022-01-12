@@ -31,7 +31,7 @@ export default observer(function ProfileEditForm({ setEditMode }: Props) {
                     <MyTextInput placeholder='Display Name' name='displayName' />
                     <MyTextArea rows={3} placeholder='Add your bio' name='bio' />
                     <Button
-                        positive
+                        color='violet'
                         type='submit'
                         loading={isSubmitting}
                         content='Update profile'
